@@ -104,8 +104,9 @@ AI Powered Fashion E-commerce Platform
 - Seller Dashboard
 - Clean Architecture
 
-🔗 GitHub:
-(Add Link)
+🔗Customer & Seller App GitHub:
+ [(Customer App)](https://github.com/probnk/glamora)
+ [(Seller App)](https://github.com/probnk/seller)
 
 ---
 
@@ -120,7 +121,7 @@ Features
 - Status
 
 🔗 GitHub:
-(Add Link)
+[(Whatsapp Clone App)](https://github.com/probnk/whatsapp)
 
 ---
 
@@ -134,7 +135,7 @@ Features
 - Offline Sync
 
 🔗 GitHub:
-(Add Link)
+[(POS Web App)](https://github.com/probnk/pos)
 
 ---
 
@@ -148,19 +149,7 @@ Features
 - REST API
 
 🔗 GitHub:
-(Add Link)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=probnk&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probnk&layout=compact&theme=tokyonight"/>
-
-</p>
+[(Forecaste App)](https://github.com/probnk/forecaster)
 
 ---
 
