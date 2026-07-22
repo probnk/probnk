@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/probnk/probnk/main/banner.png" width="100%">
+  <img src="banner 1.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
